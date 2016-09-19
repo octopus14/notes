@@ -5,5 +5,5 @@
    * [章节和子章节](format/chapters.md)
    * [Markdown](format/markdown.md)
 * [如何在 ubuntu 下安装搜狗输入法](posts/work03.md)
-* [第一节课作业](di_yi_jie_ke_zuo_ye.md)
+* [first ](di_yi_jie_ke_zuo_ye.md)
 
