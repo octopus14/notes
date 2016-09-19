@@ -7,7 +7,7 @@
     * 登陆网址github.com,推荐谷歌浏览器，提供网页翻译功能
     * 注册成功后，点进su-da/notes的链接，点击右上角的fork和watch
     * 系统会分配一个与su-da/notes有关的库，可以在个人资料页面看见
-    * 登陆gitbook.com
+    * 登陆gitbook.com![](33BL5YD3_98P1C98RF$JGOE.png)
 
 
 
